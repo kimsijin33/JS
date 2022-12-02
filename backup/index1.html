@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+            color: red;
+        }
+    </style>
+
+
+</head>
+<body>
+    <h1 id ="abc1"></h1>
+    <div id="abc">안녕하세요 김시진입니다!</div>
+    <script> 
+        console.log("Hellow world!");
+        let d = new Date();
+        document.getElementById("abc1").innerHTML = "<h1> Today's date is " + d + "</h1>";
+        ;
+        console.log(document.getElementById("abc"));
+        console.log(document.getElementById("abc").innerText);
+        document.getElementById("abc").addEventListener("click", myFunction);
+
+        function myFunction() {
+            // if or || , and &&
+            if (document.getElementById("abc").innerHTML == "안녕하세요 김시진입니다!") {
+                document.getElementById("abc").innerHTML = "Hello World!!!";
+            }
+            else if (document.getElementById("abc").innerText == "Hello World!!!") {
+                document.getElementById("abc").style.color = "red";
+                document.getElementById("abc").innerText = "Hello World!!!."
+            } 
+            else if (document.getElementById("abc").innerText == "Hello World!!!.") {
+                document.getElementById("abc").innerHTML = "안녕하세요 김시진입니다!";
+                document.getElementById("abc").style.color = "black";
+                console.log("3")
+            } 
+        }
+        /* chrome 창에서 테스트 
+        function changeColor(){
+            el = document.getElementById("abc");
+            if(el.style.color === 'black'){
+                el.style.color = 'crimson';
+            } else if(el.style.color === 'crimson') {
+                el.style.color = 'red';
+            } else {
+                el.style.color = 'black';
+            }
+        }*/
+    </script>
+</body>
+
+</html>

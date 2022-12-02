@@ -1,0 +1,37 @@
+
+공공데이터
+https://www.data.go.kr/tcs/eds/selectCoreDataView.do?coreDataInsttCode=1430000&coreDataSn=1&searchKeyword1=%ED%8A%B9%ED%97%88%EC%B2%AD&searchOrder=INSTT_NM_ASC
+https://www.kipo.go.kr/kpo/HtmlApp?c=3275&catmenu=m01_06_01
+
+GCN
+https://github.com/jwwthu/GNN4Traffic
+https://colab.research.google.com/github/stellargraph/stellargraph/blob/develop/demos/time-series/gcn-lstm-time-series.ipynb
+http://dmqm.korea.ac.kr/activity/seminar/251
+https://colab.research.google.com/github/stellargraph/stellargraph/blob/develop/demos/time-series/gcn-lstm-time-series.ipynb
+
+rnn 당뇨병 예측
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.koreascience.or.kr%2Farticle%2FJAKO201925454134555.pdf&clen=442436
+
+Neural Architecture Search
+http://dmqm.korea.ac.kr/activity/seminar/226
+
+크랙 센서 모사
+https://www.materic.or.kr/community/mterview/content.asp?f_id=92
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Foak.chosun.ac.kr%2Fbitstream%2F2020.oak%2F16668%2F1%2FElectrohydrodynamic%2520Printing%2520%25EA%25B8%25B0%25EC%2588%25A0%25EC%259D%2584%2520%25EC%25A0%2581%25EC%259A%25A9%25ED%2595%259C%2520%25EB%25AF%25B8%25EC%2584%25B8%2520%25ED%2581%25AC%25EB%259E%2599%2520%25EC%2584%25BC%25EC%2584%259C%2520%25EB%25A9%2594%25EC%25BB%25A4%25EB%258B%2588%25EC%25A6%2598.pdf&clen=640640
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.kvs.or.kr%2Ffile%2Fstory%2F180228Tc1.pdf&clen=3843556&chunk=true
+
+deep learning
+https://wikidocs.net/3413
+
+손실함수
+https://needjarvis.tistory.com/567
+
+앙상블
+https://bkshin.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-11-%EC%95%99%EC%83%81%EB%B8%94-%ED%95%99%EC%8A%B5-Ensemble-Learning-%EB%B0%B0%EA%B9%85Bagging%EA%B3%BC-%EB%B6%80%EC%8A%A4%ED%8C%85Boosting
+
+LSTM auto encoder
+https://wikidocs.net/22888
+https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder
+https://machinelearningmastery.com/lstm-autoencoders/
+https://dhpark1212.tistory.com/entry/LSTM-Autoencoder
+https://joungheekim.github.io/2020/10/11/code-review/

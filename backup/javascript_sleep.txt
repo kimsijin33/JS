@@ -1,0 +1,3 @@
+a = $("#check").click(); 
+console.log(a);
+sleep(10000000);
